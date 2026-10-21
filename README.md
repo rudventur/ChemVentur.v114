@@ -38,15 +38,9 @@ New **Upgrades tab** in the Garage! Upgrade:
 
 ---
 
-## 🎮 MULTIPLAYER ROADMAP
+## 🎮 MULTIPLAYER
 
-**Coming soon!** We're setting up Firebase for:
-- See other players' ships in real-time
-- Co-op uranium building
-- Compete for fastest builds
-- Trade atoms and resources
-
-**Free hosting on GitHub Pages + Firebase!**
+This version (v114) is single player. Multiplayer (rooms with a code, other players' ships in real time, on Firebase) is live from v117 on: see [chem.ventur.112](https://github.com/rudventur/chem.ventur.112) (v117), [ChemVentur-Multi-v118](https://github.com/rudventur/ChemVentur-Multi-v118) and [v120-ChemVentur](https://github.com/rudventur/v120-ChemVentur).
 
 ---
 
